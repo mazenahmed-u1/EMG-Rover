@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# Proteus Temporary & Backup Files
+*.DBK
+*.SDF
+*.LOG
+*.pdsprj.*
+Last Loaded *
+
+# MATLAB & Simulink
+*.asv
+*.autosave
+slprj/
+*.slxc
+
+# Generated Results (keep folder structure only)
+results/*
+!results/.gitkeep
+
+# OS & Editors
+.DS_Store
+.vscode/
+.idea/
