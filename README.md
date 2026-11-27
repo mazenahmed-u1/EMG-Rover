@@ -1,6 +1,6 @@
 # EMG-Rover
 
-**sEMG-Controlled Differential Drive Robot** — An end-to-end biomedical signal processing and embedded actuation system bridging **Digital Signal Processing (DSP)**, **Industrial Electronics**, and **Electrical Machines**.
+**EMG-Controlled Differential Drive Robot** — An end-to-end biomedical signal processing and embedded actuation system bridging **Digital Signal Processing (DSP)**, **Industrial Electronics**, and **Electrical Machines**.
 
 ---
 
